@@ -141,3 +141,23 @@ Get 2nd and 3rd highest priced matches using LIMIT/OFFSET.
 ## 📊 ERD Diagram
 
 👉 https://drive.google.com/file/d/1RdSKE2mP9IkPhUzz8GK_AfuaZpE8ltdz/view?usp=sharing
+
+
+---
+
+## 🚀 Learning Outcome
+
+This project improved my understanding of:
+
+- Relational database design
+- Real-world data modeling
+- SQL query optimization
+- Handling NULL values and joins
+- Analytical thinking with SQL
+
+---
+
+## 👨‍💻 Author
+
+**Md. Zilhaj Un Noor**  
+Aspiring Full Stack Web Developer
